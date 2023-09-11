@@ -1,0 +1,28 @@
+body{
+    background: #7078df;
+    font-family: Helvetica;
+    font-weight: lighter;
+}
+h1, h2, h3, h4, h5, h6{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 400;
+    background: rgb(137, 231, 255);
+}
+p{
+    color: #803486;
+    font-size: 16px;
+    font-style: italic;
+    line-height: 16px;
+    text-align: left;
+}
+
+ol{
+    list-style-image: None;
+
+.main-menu{
+    color: rgb(89, 96, 184);
+    font-size: 20px;
+    list-style: None;
+    line-height: 24px;
+}
